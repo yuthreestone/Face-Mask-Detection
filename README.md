@@ -8,3 +8,9 @@ YOLOv3 from darknet has been used to train a custom object detector for Covid Ma
 4) Execute: python show_bb.py --input=mask_yolo_data
 5) By either closing a window or by pressing 'Enter' a new image is being displayed with its bounding boxes.
    The "Esc" button closes all windows and terminates the program.
+
+![Alt Text](https://github.com/skanelo/Face-Mask-Detection/blob/main/results/ppred0.jpg)
+![Alt Text](https://github.com/skanelo/Face-Mask-Detection/blob/main/results/ppred1.jpg)
+![Alt Text](https://github.com/skanelo/Face-Mask-Detection/blob/main/results/ppred2.jpg)
+![Alt Text](https://github.com/skanelo/Face-Mask-Detection/blob/main/results/ppred3.jpg)
+![Alt Text](https://github.com/skanelo/Face-Mask-Detection/blob/main/results/res1.gif)
